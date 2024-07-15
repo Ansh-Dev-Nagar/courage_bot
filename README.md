@@ -7,3 +7,8 @@ replit. It gives encouraging quotes/wordings on discord
 deleting specific existing quote, showing all
 quotes listed etc.
 ->It uses zenquotes API to get the quotes
+
+## Getting the quote and adding new quote in the list
+
+
+## Checking old quotes and deleting quote
