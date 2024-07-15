@@ -1,7 +1,7 @@
 # courage_bot
 TECH STACK - Node.JS | Repl.it | Discord.JS
 ->Built a discord bot named courage hosted on cloud of
-replit. It gives encouraging quotes/wordings on discord
+replit. It gives encouraging quotes/wordings on discord server
 ,if given certain prompts like sad or depressed.
 ->It includes features like adding more quotes ,
 deleting specific existing quote, showing all
